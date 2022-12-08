@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am here to learn...
 <!--
 **rhljsh88/rhljsh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
